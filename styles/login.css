@@ -1,0 +1,33 @@
+body {
+  background-color: #f2f6ff;
+}
+
+#logo {
+  height: 50px;
+  width: 100px;
+}
+.container {
+  margin-top: 7%;
+}
+form {
+  width: 450px;
+  border-radius: 15px;
+}
+h3 {
+  color: #33517e;
+  font-weight: 600;
+}
+p {
+  color: #9eadc2;
+}
+i {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  color: #267fff;
+}
+
+#homepage {
+  right: 120px;
+  top: 20px;
+}

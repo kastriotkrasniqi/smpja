@@ -1,0 +1,50 @@
+@import url(./header.css);
+.pershkrimi .container,
+.antaret .right-side {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.projektet {
+  background-color: #f8f9fa;
+}
+.projektet .container {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.card {
+  display: inline-block;
+  height: 400px;
+  width: 390px;
+  border-radius: 15px;
+  border: 1px solid #d2d3d7;
+}
+.card:hover {
+  border: 2px solid lightskyblue;
+}
+.card-img {
+  height: 175px;
+  width: 350px;
+}
+.card-title {
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+}
+.card-text {
+  font-size: 15px;
+  padding-top: 20px;
+}
+table {
+  border-collapse: separate;
+}
+
+.left-side section {
+  background-color: #f8f9fa;
+  width: 320px;
+  height: auto;
+  border-radius: 15px;
+}
+
+footer {
+  height: 75px;
+}
